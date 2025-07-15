@@ -91,7 +91,7 @@ All tasks are working, tested, and documented.
 
 ## 📢 LinkedIn & GitHub Showcase
 
-I’ll be posting a video and write-up on my [LinkedIn](https://wwww.linkedin.com/in/abdul-hayy-khan) profile showcasing this project and experience. Stay tuned!
+I’ll be posting a video and write-up on my [LinkedIn](https://www.linkedin.com/in/abdul-hayy-khan) profile showcasing this project and experience. Stay tuned!
 
 ---
 
