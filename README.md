@@ -28,8 +28,8 @@ CodeAlpha/
   - │ └── task3_TaskAutomation.py
 - ├── Task 4/
   - │ └── task4_BasicChatbot.py
-- ├── README.md
 - └── Python Programming Tasks & Instructions — CodeAlpha.pdf
+- ├── README.md
 
 ---
 
@@ -97,11 +97,11 @@ I’ll be posting a video and write-up on my [LinkedIn](linkedin.com/in/abdul-ha
 
 ## 🙋‍♂️ Author
 
-Abdul Hayy Khan
+**Abdul Hayy Khan**
 
 Artificial Intelligence Student | Python Developer | CodeAlpha Intern
 
-📫 [abdulhayykhan.1@gmail.com]
+📫 abdulhayykhan.1@gmail.com
 
 ---
 
