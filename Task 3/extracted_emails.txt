@@ -1,0 +1,3 @@
+support@example.com
+hr@company.org
+xyzname@mailservice.net
