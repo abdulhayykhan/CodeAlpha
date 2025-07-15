@@ -78,8 +78,13 @@ CodeAlpha/
 
 ---
 
-## 🚀 How to Run the Programs
+## 🏁 Completion Status
 
-1. Clone this repository or download the files:
-```bash
-git clone https://github.com/abdulhayykhan/CodeAlpha.git
+✅ Task 1 – Completed
+✅ Task 2 – Completed
+✅ Task 3 – Completed
+✅ Task 4 – Completed
+
+All tasks are working, tested, and documented.
+
+---
