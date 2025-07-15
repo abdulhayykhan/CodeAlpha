@@ -1,2 +1,0 @@
-john.doe@example.com
-jane_doe123@company.org
