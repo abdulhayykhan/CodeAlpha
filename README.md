@@ -21,13 +21,13 @@ I completed all **4 tasks** provided as part of the internship, using Python and
 
 CodeAlpha/
 - ├── Task 1/
-- │ └── task1_HangmanGame.py
+  - │ └── task1_HangmanGame.py
 - ├── Task 2/
-- │ └── task2_StockPortfolioTracker.py
+  - │ └── task2_StockPortfolioTracker.py
 - ├── Task 3/
-- │ └── task3_TaskAutomation.py
+  - │ └── task3_TaskAutomation.py
 - ├── Task 4/
-- │ └── task4_BasicChatbot.py
+  - │ └── task4_BasicChatbot.py
 - ├── README.md
 - └── Python Programming Tasks & Instructions — CodeAlpha.pdf
 
