@@ -67,4 +67,3 @@ Python Developer | CodeAlpha Intern
 ## 📜 License
 
 This project was created as part of the **CodeAlpha Python Internship** and is intended for learning and demonstration purposes only.
-
