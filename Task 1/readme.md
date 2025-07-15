@@ -40,34 +40,34 @@ The user is challenged to guess a hidden word by entering one letter at a time, 
 
 ## 📸 Example Interaction
 
-🎮 Welcome to Hangman!
-Guess the word: _ _ _ _
+- 🎮 Welcome to Hangman!
+- Guess the word: _ _ _ _
 
-Enter a letter: a
-❌ Wrong guess! Tries left: 5
-Word: _ _ _ _
+- Enter a letter: a
+- ❌ Wrong guess! Tries left: 5
+- Word: _ _ _ _
 
-Enter a letter: o
-✅ Correct guess!
-Word: _ o _ _
+- Enter a letter: o
+- ✅ Correct guess!
+- Word: _ o _ _
 
-Enter a letter: e
-✅ Correct guess!
-Word: _ o _ e
+- Enter a letter: e
+- ✅ Correct guess!
+- Word: _ o _ e
 
-Enter a letter: x
-❌ Wrong guess! Tries left: 4
-Word: _ o _ e
+- Enter a letter: x
+- ❌ Wrong guess! Tries left: 4
+- Word: _ o _ e
 
-Enter a letter: d
-✅ Correct guess!
-Word: _ o d e
+- Enter a letter: d
+- ✅ Correct guess!
+- Word: _ o d e
 
-Enter a letter: c
-✅ Correct guess!
-Word: c o d e
+- Enter a letter: c
+- ✅ Correct guess!
+- Word: c o d e
 
-🎉 Congratulations! You guessed the word: code
+- 🎉 Congratulations! You guessed the word: code
 
 ---
 
