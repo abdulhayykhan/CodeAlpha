@@ -88,3 +88,28 @@ CodeAlpha/
 All tasks are working, tested, and documented.
 
 ---
+
+## 📢 LinkedIn & GitHub Showcase
+
+I’ll be posting a video and write-up on my [LinkedIn](linkedin.com/in/abdul-hayy-khan) profile showcasing this project and experience. Stay tuned!
+
+---
+
+## 🙋‍♂️ Author
+
+Abdul Hayy Khan
+
+Artificial Intelligence Student | Python Developer | CodeAlpha Intern
+
+📫 [abdulhayykhan.1@gmail.com]
+
+---
+
+## 📌 License
+
+This project is for educational purposes as part of the CodeAlpha internship program. Feel free to use it for learning and inspiration. Attribution is appreciated.
+
+---
+
+
+
