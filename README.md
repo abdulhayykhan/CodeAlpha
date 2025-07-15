@@ -9,13 +9,12 @@ I completed all **4 tasks** provided as part of the internship, using Python and
 
 ## 📁 Repository Structure
 
-| File Name                        | Task Name                        | Description |
-|----------------------------------|----------------------------------|-------------|
-| `task1_HangmanGame.py`           | Hangman Game                     | A classic text-based word guessing game using a limited number of chances. |
-| `task2_StockPortfolioTracker.py` | Stock Portfolio Tracker          | A simple tool that calculates investment value from predefined stock prices and user input. |
-| `task3_TaskAutomation.py`        | Task Automation – Email Extractor| Extracts email addresses from a text file and saves them into a separate output file. |
-| `task4_BasicChatbot.py`          | Basic Chatbot                    | A rule-based chatbot that gives predefined replies to simple user inputs like greetings and farewells. |
-| `Python Programming Tasks & Instructions — CodeAlpha.pdf` | Internship Task File | The official PDF describing the tasks and submission process. |
+| Task | Description |
+|------|-------------|
+| [Task 1](./Task%201) | 🎮 **Hangman Game** – A console-based word guessing game using random word selection, loops, and conditions. |
+| [Task 2](./Task%202) | 📊 **Stock Portfolio Tracker** – Calculates total investment value using user input and a hardcoded stock price dictionary. |
+| [Task 3](./Task%203) | ⚙️ **Task Automation** – Extracts email addresses from a `.txt` file using regex and writes them to another file. |
+| [Task 4](./Task%204) | 💬 **Basic Chatbot** – A rule-based chatbot that responds to user input with predefined replies. |
 
 ---
 
