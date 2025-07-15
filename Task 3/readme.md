@@ -44,10 +44,8 @@ This task demonstrates the automation of a real-world problem using Python:
 
 📄 Content of `sample_text.txt`:
 - Hello Team,
-
 - Please contact us at support@example.com or hr@company.org.
 - Also reach out to xyzname@mailservice.net for collaboration.
-
 - Regards,
 - Admin
 
